@@ -6,6 +6,6 @@ OPDRACHT 3
 3. git blame index.html
 4. git show <hash
 OPDRACHT 7
-a.
-b.
-c.
+a.De eerste git push lukte niet omdat er op GitHub al een andere commit stond die nog niet in mijn lokale repository zat.
+b.git commit slaat wijzigingen op in de lokale Git-geschiedenis. git push stuurt deze commits naar GitHub.
+c.Zo kun je de nieuwe functie apart ontwikkelen zonder de stabiele main-branch te veranderen. Je kunt de functie eerst testen en daarna veilig samenvoegen met main.
